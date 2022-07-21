@@ -5,6 +5,9 @@ In each folder (Front-end & Back-end) launch the command :
 ```
 npm install
 ```
+Then you need to edit configuration :  
+in Back-end/server?js:7 (MongoDB url) 
+And Front-End/src/main.js:12 (Auth0 informations)
 
 ### Launch Front-end
 ```
