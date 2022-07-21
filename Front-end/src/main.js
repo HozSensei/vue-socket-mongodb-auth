@@ -10,8 +10,8 @@ createApp(App)
     .use(router)
     .use(
         createAuth0({
-            domain: 'dev-wpeu6uij.eu.auth0.com',
-            client_id: 'RKPTL94y0sfHymV41vDrgg0av787cYxw',
+            domain: 'XXXX',
+            client_id: 'XXXX',
             redirect_uri: 'http://localhost:8080'
         })
     )
